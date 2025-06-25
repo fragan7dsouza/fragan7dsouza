@@ -45,25 +45,30 @@
 
 <div align="center">
 
+<div align="center">
+
 # 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=fragan-dsouza&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=fa709a&text_color=ffffff&rank_icon=github&hide=prs&show=reviews,prs_merged,prs_merged_percentage" /> | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragan-dsouza&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff) |
+| <img src="https://github-readme-stats.vercel.app/api?username=fragan7dsouza&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=fa709a&text_color=ffffff&rank_icon=github&hide=prs&show=reviews,prs_merged,prs_merged_percentage" /> | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fragan7dsouza&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff) |
 |---------|---------|
 
 </div>
 
-![Fragan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fragan-dsouza&theme=github-compact)
+![Fragan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fragan7dsouza&theme=github-compact)
+
+<div align="center">
+
+| <h3>🎖️ LeetCode Stats</h3> |
+|-----------------------------|
+| <img src="https://leetcard.jacoblin.cool/FraganDsouza?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" /> |
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 <div align="center">
 
-> _“Speaking passion. Coding impact.”_
-
-</div>
-
-<img src="https://github.com/Fragan-Dsouza/Fragan-Dsouza/blob/output/github-snake-dark.svg" />
-
+![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 
