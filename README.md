@@ -1,4 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h2 align="center">💫 About Me</h2>
 
@@ -41,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 <div align="center">
 
@@ -64,11 +62,6 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
-<div align="center">
-
-![snake gif](https://github.com/DharshanPrakashP/DharshanPrakashP/blob/output/github-snake-dark.svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
 
 
