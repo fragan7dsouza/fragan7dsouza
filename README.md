@@ -1,6 +1,6 @@
 # Hey there! I'm Fragan D'Souza 👋
 
-🎓 B.Tech Computer Science & Engineering | NMAM Institute Of Technology  
+🎓 B.Tech in Computer Science & Engineering | NMAM Institute Of Technology  
 🤖 AI & Cybersecurity Enthusiast | ENFJ-A  
 ⚽ Athlete | Public Speaker | Problem Solver  
 
@@ -22,5 +22,5 @@
 - Contact: +91 9108449812
 
 
-> _“Speaking ideas. Coding impact.”_
+> _“Speaking passion. Coding impact.”_
 
