@@ -1,4 +1,3 @@
-
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
@@ -18,7 +17,7 @@
   </a>
 </p>
 
-<div align="center">
+---
 
 <div align="center">
 
@@ -35,6 +34,9 @@
 ### Frameworks & Tools  
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/tkinter-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scapy-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 
@@ -42,12 +44,19 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Machine Learning  
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
+---
+
+## 🚀 Featured Projects
+
+- 🛡️ [Intrusion Detection System](https://github.com/fragan7dsouza/intrusion-detection-system) — detects port scanning attacks using Scapy and real-time packet monitoring.  
+- 🧠 [Corporate Network Security Auditor](https://github.com/fragan7dsouza/corporate-network-security-auditor) — automated Python-based auditing tool for scanning and analyzing network vulnerabilities.  
+- 🔍 [PhishGuard](https://github.com/fragan7dsouza/phishguard) — ML-based phishing detection system developed during the Smart India Hackathon.
 
 ---
 
@@ -71,7 +80,3 @@
 [![](https://visitcount.itsvg.in/api?id=fragan7dsouza&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-
-
-
