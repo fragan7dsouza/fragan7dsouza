@@ -52,14 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛡️ [Intrusion Detection System](https://github.com/fragan7dsouza/intrusion-detection-system) — detects port scanning attacks using Scapy and real-time packet monitoring.  
-- 🧠 [Corporate Network Security Auditor](https://github.com/fragan7dsouza/corporate-network-security-auditor) — automated Python-based auditing tool for scanning and analyzing network vulnerabilities.  
-- 🔍 [PhishGuard](https://github.com/fragan7dsouza/phishguard) — ML-based phishing detection system developed during the Smart India Hackathon.
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=fragan7dsouza&theme=nightowl&show_icons=true&count_private=true&hide_border=false&include_all_commits=false"/><br/>
