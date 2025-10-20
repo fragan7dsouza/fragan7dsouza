@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
 
----
 
 ### ⚙️ Frameworks & Tools  
 <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>  
@@ -43,7 +42,6 @@
 <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>  
 
----
 
 ### 🗄️ Databases  
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>  
@@ -52,7 +50,6 @@
 <img src="https://img.shields.io/badge/NeonDB-%2300E599.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>  
 
----
 
 ### 🤖 Machine Learning & Data  
 <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>  
