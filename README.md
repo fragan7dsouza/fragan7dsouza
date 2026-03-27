@@ -80,11 +80,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo  
-<img src="https://github-contributor-stats.vercel.app/api?username=fragan7dsouza&limit=5&theme=nightowl&combine_all_yearly_contributions=true"/>
-
----
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fragan7dsouza&theme=github-compact"/>
 
 ---
