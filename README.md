@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Fragan D'Souza 👋</h1>
 
 <p align="center">
-  <em>CS undergrad at NMAMIT · Building at the intersection of AI, finance, and systems</em>
+  <em>CS undergrad at NMAMIT · Building at the intersection of AI, data, and systems</em>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 ## 🔧 Currently Working On
 
 - **TRiO AI** — Building a real-time financial analysis system with WebSocket market feeds, ML models for price direction + volatility regime detection, and an AI reasoning layer combining ML signals with LLMs
-- **Inspirante Technologies** — Designing and benchmarking CNNs (ResNet50, DenseNet121, MobileNetV2) for brain MRI/CT scan classification; implementing Grad-CAM for interpretability and automated ROI extraction pipelines
+- **Inspirante Technologies** — Designing and benchmarking CNNs (ResNet50, DenseNet121, MobileNetV2) for brain MRI/CT scan classification to architect newer, hybrid models; implementing Grad-CAM for interpretability and automated ROI extraction pipelines
 
 ---
 
@@ -75,7 +75,7 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 | [agropulse](https://github.com/fragan7dsouza/agropulse) | Real-time agri-market platform with predictive analytics and live bidding; boosted farmer revenue 20–40% | TypeScript |
 | [Corporate-Network-Security-Auditor](https://github.com/fragan7dsouza/Corporate-Network-Security-Auditor) | Network security auditor with port scanning, vulnerability checks, firewall analysis, and PDF reporting | Python |
 | [CampusIQ](https://github.com/fragan7dsouza/CampusIQ) | Educational platform connecting students and teachers to syllabus-specific learning resources | HTML |
-| [ToolRelay-v2.0](https://github.com/fragan7dsouza/ToolRelay-v2.0) | Revamped composable MCP architecture — building MCPs without building MCPs for MCPs | TypeScript |
+| [ToolRelay-v2.0](https://github.com/fragan7dsouza/ToolRelay-v2.0) | Dev tool that converts OpenAPI 3.x specifications into fully functional FastMCP servers | TypeScript |
 
 ### Tier 3 — Exploratory & Course Projects
 
