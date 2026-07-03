@@ -29,7 +29,7 @@
 
 ## About
 
-I'm a 3rd-year Computer Science student at NMAM Institute of Technology, focused on building real systems — not just toy projects. Currently working on an AI-driven financial analysis platform with real-time market data pipelines, and developing deep learning models for medical imaging diagnostics. I've shipped work across AI/ML, blockchain, cybersecurity, and full-stack development, and I'm comfortable taking a problem from research to deployment.
+I'm a final year Computer Science student at NMAM Institute of Technology, focused on building real systems. Currently working on an AI-driven financial analysis platform with real-time market data pipelines. I've shipped work across AI/ML, blockchain, cybersecurity, and full-stack development, and I'm comfortable taking a problem from research to deployment.
 
 Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs, and emcee for college flagship events.
 
@@ -38,7 +38,6 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 ## 🔧 Currently Working On
 
 - **TRiO AI** — Building a real-time financial analysis system with WebSocket market feeds, ML models for price direction + volatility regime detection, and an AI reasoning layer combining ML signals with LLMs
-- **Inspirante Technologies** — Designing and benchmarking CNNs (ResNet50, DenseNet121, MobileNetV2) for brain MRI/CT scan classification to architect newer, hybrid models; implementing Grad-CAM for interpretability and automated ROI extraction pipelines
 
 ---
 
