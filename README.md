@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Fragan D'Souza 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>CS undergrad at NMAMIT · Building at the intersection of AI, data, and systems</em>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fragan%20D'Souza&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=58&descAlign=50)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-driven+systems+at+scale;Deep+Learning+%7C+Full+Stack+%7C+Security;Turning+research+into+production" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fragan-d-souza-64626a29b">
