@@ -37,16 +37,16 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 
 ## 🔧 Currently Working On
 
-- **TRiO AI** — Building a real-time financial analysis system with WebSocket market feeds, ML models for price direction + volatility regime detection, and an AI reasoning layer combining ML signals with LLMs
+- **TRiO AI**: Building a real-time financial analysis system with WebSocket market feeds, ML models for price direction + volatility regime detection, and an AI reasoning layer combining ML signals with LLMs
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 Winner — SAP Hackfest '25 (Special Challenge)
-- 🥇 Winner — ACEathon '25
-- 🥈 Runners-up — DevAppSys & SkillSync @ Srinathon 2.0 '25
-- 🥉 2nd Runners-up — Udbhava '25 & CodeSprint '26
+- 🥇 Winner: SAP Hackfest '25 (Special Challenge)
+- 🥇 Winner: ACEathon '25
+- 🥈 Runners-up: DevAppSys & SkillSync @ Srinathon 2.0 '25
+- 🥉 2nd Runners-up: Udbhava '25 & CodeSprint '26
 - 🎤 3× Best Delegate · 2× Honorable Mention at MUN conferences
 - ⚽ CBSE U-19 Football Nationals Runners-up, Delhi (2022)
 
@@ -54,7 +54,7 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 
 ## 🚀 Projects
 
-### Tier 1 — Production-grade & Internship Work
+### Tier 1: Production-grade & Internship Work
 
 | Project | Description | Stack |
 |---|---|---|
@@ -64,19 +64,19 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 | [SynapseDB](https://github.com/fragan7dsouza/SynapseDB) | AI query engine for natural language questions over SQL databases and documents; adapts to any schema dynamically | TypeScript |
 | [querify-ai](https://github.com/fragan7dsouza/querify-ai) | Transforms natural language into SQL queries using AI; schema-agnostic and built for data analysts | TypeScript |
 
-### Tier 2 — Substantial Independent Projects
+### Tier 2: Substantial Independent Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [StegaMind](https://github.com/fragan7dsouza/StegaMind) | AI-powered steganography + steganalysis system that hides and detects secret images inside cover images | Python, PyTorch, FastAPI, React |
 | [CloudOps-Dashboard](https://github.com/fragan7dsouza/CloudOps-Dashboard) | Real-time Docker monitoring system tracking container CPU, memory, and performance metrics with live charts | TypeScript, FastAPI, React |
 | [Human-vs-AI-Text-Detection](https://github.com/fragan7dsouza/Human-vs-AI-Text-Detection-for-Academic-Submissions) | ML system classifying academic text as human-written or AI-generated | Python, Flask, TypeScript |
-| [agropulse](https://github.com/fragan7dsouza/agropulse) | Real-time agri-market platform with predictive analytics and live bidding; boosted farmer revenue 20–40% | TypeScript |
+| [agropulse](https://github.com/fragan7dsouza/agropulse) | Real-time agri-market platform with predictive analytics and live bidding; boosted farmer revenue 20 to 40% | TypeScript |
 | [Corporate-Network-Security-Auditor](https://github.com/fragan7dsouza/Corporate-Network-Security-Auditor) | Network security auditor with port scanning, vulnerability checks, firewall analysis, and PDF reporting | Python |
 | [CampusIQ](https://github.com/fragan7dsouza/CampusIQ) | Educational platform connecting students and teachers to syllabus-specific learning resources | HTML |
 | [ToolRelay-v2.0](https://github.com/fragan7dsouza/ToolRelay-v2.0) | Dev tool that converts OpenAPI 3.x specifications into fully functional FastMCP servers | TypeScript |
 
-### Tier 3 — Exploratory & Course Projects
+### Tier 3: Exploratory & Course Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -155,11 +155,23 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 
 ## 📜 Certifications
 
-- Oracle Certified Foundations Associate (OCI AI)
-- Google Cybersecurity Professional
-- Google AI Essentials
-- AINNOVATION 2025
-- Learn Ethical Hacking From Scratch
+| Source | Certification |
+|---|---|
+| Oracle | Oracle Certified Foundations Associate (OCI AI) |
+| Google | Google Cybersecurity Professional |
+| Google | Google AI Essentials |
+| Udemy | Learn Ethical Hacking From Scratch |
+| Other | AINNOVATION 2025 |
+| HackerRank | Software Engineer (Role) |
+| HackerRank | Software Engineer Intern (Role) |
+| HackerRank | Problem Solving (Basic) |
+| HackerRank | Problem Solving (Intermediate) |
+| HackerRank | Python (Basic) |
+| HackerRank | SQL (Basic) |
+| HackerRank | SQL (Intermediate) |
+| HackerRank | SQL (Advanced) |
+| HackerRank | REST API (Intermediate) |
+| Internshala | Web Development |
 
 ---
 
