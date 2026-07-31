@@ -161,7 +161,7 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 | Google | Google Cybersecurity Professional |
 | Google | Google AI Essentials |
 | Udemy | Learn Ethical Hacking From Scratch |
-| Other | AINNOVATION 2025 |
+| Microsoft Azure | AINNOVATION 2025 |
 | HackerRank | Software Engineer (Role) |
 | HackerRank | Software Engineer Intern (Role) |
 | HackerRank | Problem Solving (Basic) |
