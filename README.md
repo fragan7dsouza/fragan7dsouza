@@ -61,7 +61,6 @@ Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs,
 | [PhishGuard](https://github.com/fragan7dsouza/PhishGuard) | AI-powered cybersecurity platform for real-time phishing detection in educational institutions; reduced manual scam verification by 40% | TypeScript, ML, SAP Analytics |
 | [med-block-guard](https://github.com/fragan7dsouza/med-block-guard) | Permissioned blockchain (Hyperledger Fabric + MultiChain) for clinical trial integrity with ML-driven bias detection | Python, Jupyter |
 | [customer-segmentation-ml](https://github.com/fragan7dsouza/customer-segmentation-ml) | K-Means clustering on 25,000+ retail transactions with PCA visualization; improved targeting by 35% | Python, Scikit-learn |
-| [SynapseDB](https://github.com/fragan7dsouza/SynapseDB) | AI query engine for natural language questions over SQL databases and documents; adapts to any schema dynamically | TypeScript |
 | [querify-ai](https://github.com/fragan7dsouza/querify-ai) | Transforms natural language into SQL queries using AI; schema-agnostic and built for data analysts | TypeScript |
 
 ### Tier 2: Substantial Independent Projects
