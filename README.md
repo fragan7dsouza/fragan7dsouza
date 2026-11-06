@@ -6,7 +6,7 @@ I build ML systems, full stack apps and security tools. At TRiO AI I'm working o
 
 [LinkedIn](https://www.linkedin.com/in/fragan-d-souza-64626a29b) · [LeetCode](https://leetcode.com/u/FraganDsouza/) · [ORCID](https://orcid.org/0009-0003-2377-2169) · [X](https://x.com/fragan_d) · [fragan777@gmail.com](mailto:fragan777@gmail.com)
 
-## Selected projects
+## Solo pristine projects
 
 | Project | What it does | Built with |
 |---|---|---|
