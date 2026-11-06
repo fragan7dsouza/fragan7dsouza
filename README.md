@@ -1,179 +1,52 @@
-<div align="center">
+# Fragan D'Souza
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fragan%20D'Souza&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=58&descAlign=50)
+SDE Intern at **TRiO AI** · Final-year CSE student at NMAM Institute of Technology, Mangalore
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-driven+systems+at+scale;Deep+Learning+%7C+Full+Stack+%7C+Security;Turning+research+into+production" />
+I build ML systems, full-stack apps and security tools. At TRiO AI I'm working on a real-time financial analysis system: WebSocket market feeds, ML models for price direction and volatility-regime detection, and an LLM layer that reasons over those signals.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fragan-d-souza-64626a29b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://github.com/fragan7dsouza">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://www.instagram.com/fragan.dsouza/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://x.com/fragan_d">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://leetcode.com/u/FraganDsouza/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=flat-square" />
-  </a>
-  <a href="mailto:fragan777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/fragan-d-souza-64626a29b) · [LeetCode](https://leetcode.com/u/FraganDsouza/) · [ORCID](https://orcid.org/0009-0003-2377-2169) · [X](https://x.com/fragan_d) · [fragan777@gmail.com](mailto:fragan777@gmail.com)
 
----
+## Selected projects
 
-## About
-
-I'm a final year Computer Science student at NMAM Institute of Technology, focused on building real systems. Currently working on an AI-driven financial analysis platform with real-time market data pipelines. I've shipped work across AI/ML, blockchain, cybersecurity, and full-stack development, and I'm comfortable taking a problem from research to deployment.
-
-Outside code: CBSE U-19 Football Nationals runner-up, 3× Best Delegate at MUNs, and emcee for college flagship events.
-
----
-
-## 🔧 Currently Working On
-
-- **TRiO AI**: Building a real-time financial analysis system with WebSocket market feeds, ML models for price direction + volatility regime detection, and an AI reasoning layer combining ML signals with LLMs
-
----
-
-## 🏆 Highlights
-
-- 🥇 Winner: SAP Hackfest '25 (Special Challenge)
-- 🥇 Winner: ACEathon '25
-- 🥈 Runners-up: DevAppSys & SkillSync @ Srinathon 2.0 '25
-- 🥉 2nd Runners-up: Udbhava '25 & CodeSprint '26
-- 🎤 3× Best Delegate · 2× Honorable Mention at MUN conferences
-- ⚽ CBSE U-19 Football Nationals Runners-up, Delhi (2022)
-
----
-
-## 🚀 Projects
-
-### Tier 1: Production-grade & Internship Work
-
-| Project | Description | Stack |
+| Project | What it does | Built with |
 |---|---|---|
-| [PhishGuard](https://github.com/fragan7dsouza/PhishGuard) | AI-powered cybersecurity platform for real-time phishing detection in educational institutions; reduced manual scam verification by 40% | TypeScript, ML, SAP Analytics |
-| [med-block-guard](https://github.com/fragan7dsouza/med-block-guard) | Permissioned blockchain (Hyperledger Fabric + MultiChain) for clinical trial integrity with ML-driven bias detection | Python, Jupyter |
-| [customer-segmentation-ml](https://github.com/fragan7dsouza/customer-segmentation-ml) | K-Means clustering on 25,000+ retail transactions with PCA visualization; improved targeting by 35% | Python, Scikit-learn |
-| [querify-ai](https://github.com/fragan7dsouza/querify-ai) | Transforms natural language into SQL queries using AI; schema-agnostic and built for data analysts | TypeScript |
+| [StegaMind](https://github.com/fragan7dsouza/StegaMind) | Hides images inside cover images and detects stego content (steganography + steganalysis) | PyTorch, FastAPI, React |
+| [Inspirante-brainstroke](https://github.com/fragan7dsouza/Inspirante-brainstroke) | Benchmarks ResNet50, DenseNet121, MobileNetV2, InceptionV3 and AlexNet for brain-stroke classification with transfer learning (Inspirante internship) | Python, Jupyter |
+| [CloudOps-Dashboard](https://github.com/fragan7dsouza/CloudOps-Dashboard) | Live CPU and memory monitoring for Docker containers via the Docker Engine API | FastAPI, React, TypeScript |
+| [ToolRelay-v2.0](https://github.com/fragan7dsouza/ToolRelay-v2.0) | Generates FastMCP servers from OpenAPI 3.x specs; CLI + ingestion loader, extended from openshaf/MCPer | TypeScript |
+| [Corporate-Network-Security-Auditor](https://github.com/fragan7dsouza/Corporate-Network-Security-Auditor) | Port scanning, vulnerability checks, firewall analysis and PDF reports | Python, Flask, SQLite |
+| [Human-vs-AI-Text-Detection](https://github.com/fragan7dsouza/Human-vs-AI-Text-Detection-for-Academic-Submissions) | Classifies academic text as human-written or AI-generated | Flask, React, TypeScript |
+| [med-block-guard](https://github.com/fragan7dsouza/med-block-guard) | TF-IDF + logistic-regression text classifier with a SHA-256 tamper-evident ledger (Thaniya Technologies internship) | Python, scikit-learn, FastAPI |
+| [customer-segmentation-ml](https://github.com/fragan7dsouza/customer-segmentation-ml) | K-Means segmentation of the Online Retail dataset with PCA visualisation (DLithe internship) | Pandas, scikit-learn |
 
-### Tier 2: Substantial Independent Projects
+**Team / hackathon projects**
 
-| Project | Description | Stack |
-|---|---|---|
-| [StegaMind](https://github.com/fragan7dsouza/StegaMind) | AI-powered steganography + steganalysis system that hides and detects secret images inside cover images | Python, PyTorch, FastAPI, React |
-| [CloudOps-Dashboard](https://github.com/fragan7dsouza/CloudOps-Dashboard) | Real-time Docker monitoring system tracking container CPU, memory, and performance metrics with live charts | TypeScript, FastAPI, React |
-| [Human-vs-AI-Text-Detection](https://github.com/fragan7dsouza/Human-vs-AI-Text-Detection-for-Academic-Submissions) | ML system classifying academic text as human-written or AI-generated | Python, Flask, TypeScript |
-| [agropulse](https://github.com/fragan7dsouza/agropulse) | Real-time agri-market platform with predictive analytics and live bidding; boosted farmer revenue 20 to 40% | TypeScript |
-| [Corporate-Network-Security-Auditor](https://github.com/fragan7dsouza/Corporate-Network-Security-Auditor) | Network security auditor with port scanning, vulnerability checks, firewall analysis, and PDF reporting | Python |
-| [CampusIQ](https://github.com/fragan7dsouza/CampusIQ) | Educational platform connecting students and teachers to syllabus-specific learning resources | HTML |
-| [ToolRelay-v2.0](https://github.com/fragan7dsouza/ToolRelay-v2.0) | Dev tool that converts OpenAPI 3.x specifications into fully functional FastMCP servers | TypeScript |
+- [PhishGuard](https://github.com/fragan7dsouza/PhishGuard): phishing detection for links, emails and documents, aimed at students and universities (Next.js, FastAPI, scikit-learn)
+- [agropulse](https://github.com/fragan7dsouza/agropulse): agri-market platform with mandi price data, price prediction and live bidding, by team Trikernel (Next.js, tRPC, PostgreSQL)
+- [querify-ai](https://github.com/fragan7dsouza/querify-ai): natural-language-to-SQL for any schema (TypeScript)
 
-### Tier 3: Exploratory & Course Projects
+**Smaller projects:** [Intrusion-Detection-System](https://github.com/fragan7dsouza/Intrusion-Detection-System) (Scapy port-scan detector) · [AI-Based-Diet-Planner](https://github.com/fragan7dsouza/AI-Based-Diet-Planner) · [PennyFlow](https://github.com/fragan7dsouza/PennyFlow-Personal-Finance-Tracker) · [grocery-shopping-app](https://github.com/fragan7dsouza/grocery-shopping-app) (MERN) · [Online-Polling-System](https://github.com/fragan7dsouza/Online-Polling-System) · [Hostel-Mess-Management-System](https://github.com/fragan7dsouza/Hostel-Mess-Management-System) · [Password-Strength-tester](https://github.com/fragan7dsouza/Password-Strength-tester) · [dsa-solutions](https://github.com/fragan7dsouza/dsa-solutions) · [coursework index](https://github.com/fragan7dsouza/nmamit-coursework)
 
-| Project | Description | Stack |
-|---|---|---|
-| [Intrusion-Detection-System](https://github.com/fragan7dsouza/Intrusion-Detection-System) | Real-time TCP port scan detection using Scapy and Tkinter with GUI alerts and dark mode | Python |
-| [AI-Based-Diet-Planner](https://github.com/fragan7dsouza/AI-Based-Diet-Planner) | AI-powered meal plan generator based on user preferences, health goals, and nutritional needs | HTML, Python |
-| [PennyFlow-Personal-Finance-Tracker](https://github.com/fragan7dsouza/PennyFlow-Personal-Finance-Tracker) | Clean personal finance tracker with income/expense management and Supabase backend | TypeScript, Supabase |
-| [Online-Polling-System](https://github.com/fragan7dsouza/Online-Polling-System) | Web-based voting app with real-time result visualization using Chart.js | Java, JSP, MySQL |
-| [Password-Strength-tester](https://github.com/fragan7dsouza/Password-Strength-tester) | Evaluates password complexity, uniqueness, and integrity | HTML, Python |
-| [Hostel-Mess-Management-System](https://github.com/fragan7dsouza/Hostel-Mess-Management-System) | JSP/Servlet web app managing student enrollment, weekly menus, and automated billing | Java, MySQL |
-| [devops-containerization-lab](https://github.com/fragan7dsouza/devops-containerization-lab) | Organized Docker/Kubernetes configs and images for easy access | Dockerfile |
-| [dsa-solutions](https://github.com/fragan7dsouza/dsa-solutions) | NeetCode.io problem submissions and solutions | Python |
+## Highlights
 
----
+- Winner, SAP Hackfest '25 (Special Challenge)
+- Winner, ACEathon '25
+- Runners-up, DevAppSys and SkillSync at Srinathon 2.0 '25
+- 2nd runners-up, Udbhava '25 and CodeSprint '26
+- Captain, CBSE U-19 Football Nationals runners-up, Delhi (2022)
+- 3× Best Delegate and 2× Honorable Mention at Model UN conferences
 
-## 🛠️ Tech Stack
+## Stack
 
-**Languages**
+- **Languages:** Python, TypeScript, JavaScript, Java, C++, SQL, R
+- **ML:** PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy
+- **Web & infra:** Next.js, React, FastAPI, Flask, Express, Docker, Kubernetes
+- **Data:** PostgreSQL, MongoDB, MySQL, Firebase, Supabase
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+## Certifications
 
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
-**Web & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+Oracle Cloud Infrastructure AI Foundations Associate · Google Cybersecurity Professional · Google AI Essentials · HackerRank Software Engineer, SQL (Advanced), REST API (Intermediate)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fragan7dsouza&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fragan7dsouza&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🧩 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/FraganDsouza?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
-
-## 📜 Certifications
-
-| Source | Certification |
-|---|---|
-| Oracle | Oracle Certified Foundations Associate (OCI AI) |
-| Google | Google Cybersecurity Professional |
-| Google | Google AI Essentials |
-| Udemy | Learn Ethical Hacking From Scratch |
-| Microsoft Azure | AINNOVATION 2025 |
-| HackerRank | Software Engineer (Role) |
-| HackerRank | Software Engineer Intern (Role) |
-| HackerRank | Problem Solving (Basic) |
-| HackerRank | Problem Solving (Intermediate) |
-| HackerRank | Python (Basic) |
-| HackerRank | SQL (Basic) |
-| HackerRank | SQL (Intermediate) |
-| HackerRank | SQL (Advanced) |
-| HackerRank | REST API (Intermediate) |
-| Internshala | Web Development |
-
----
-
-<p align="center">
-  <em>Languages: English · Hindi · Konkani · Arabic</em>
+<img src="https://leetcard.jacoblin.cool/FraganDsouza?theme=dark&font=Karma&ext=contest" alt="LeetCode stats" />
 </p>
